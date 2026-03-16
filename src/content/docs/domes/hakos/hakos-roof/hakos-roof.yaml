@@ -1,0 +1,14 @@
+# Display Names (Human-Friendly - Required)
+driver_name: Hakos Roll Off Roof
+manufacturer_name: Hakos Observatory
+
+# Categories (Required - can be multiple)
+categories:
+  - domes
+
+# Additional Metadata (Optional)
+website: https://www.indilib.org/
+executable: indi_hakos_roof
+platforms: Linux, BSD, macOS
+author: Ferrante Enriques
+version: 1.3
